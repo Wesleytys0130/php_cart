@@ -1,0 +1,10 @@
+.products{    
+    border-radius: 5px;
+    padding: 13px;
+    margin-bottom: 20px;
+}
+.clear{
+    clear:both;
+}
+
+/* img-fluid */
